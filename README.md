@@ -11,14 +11,14 @@
   - [Authentication](https://github.com/esmeralda-barajas07/authentication)
 
 - <b>Deployment, Networking, Troubleshooting</b>
-  - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
-  - [Creating and Managing Local Users]()
-  - [Troubleshooting Network Connectivity]()
-  - [Managing Windows Updates]()
-  - [Software Installation]()
-  - [Print Queue]()
-  - [Credential Manager and Cache]()
-  - [PowerShell]()
+  - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/esmeralda-barajas07/createrg-deploy-vm-remote)
+  - [Creating and Managing Local Users](https://github.com/esmeralda-barajas07/create-manage-users)
+  - [Troubleshooting Network Connectivity](https://github.com/esmeralda-barajas07/troubleshoot-network-connect)
+  - [Managing Windows Updates](https://github.com/esmeralda-barajas07/manage-windows-updates)
+  - [Software Installation](https://github.com/esmeralda-barajas07/software-installation)
+  - [Print Queue](https://github.com/esmeralda-barajas07/print-queue)
+  - [Credential Manager and Cache](https://github.com/esmeralda-barajas07/credential-manager)
+  - [PowerShell](https://github.com/esmeralda-barajas07/powershell-fundamentals)
     
 - <b>Ticketing System</b>
-  - [SpiceWorks Ticketing System]()
+  - [SpiceWorks Ticketing System](https://github.com/esmeralda-barajas07/spiceworks-ticketing)
