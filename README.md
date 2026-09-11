@@ -8,7 +8,7 @@
   - [Identify Lifecycles](https://github.com/esmeralda-barajas07/identity-lifecycle)
   - [Audit Logs](https://github.com/esmeralda-barajas07/audit-logs)
   - [Sign-In Logs](https://github.com/esmeralda-barajas07/sign-in-logs)
-  - [Authentication]()
+  - [Authentication](https://github.com/esmeralda-barajas07/authentication)
 
 - <b>Deployment, Networking, Troubleshooting</b>
   - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
