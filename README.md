@@ -4,7 +4,7 @@
   - [Creating User's in Entra ID](https://github.com/esmeralda-barajas07/user-accounts)
   - [Cloud Provisioning - P2 Licensing](https://github.com/esmeralda-barajas07/p2-licensing)
   - [Role Assignments](https://github.com/esmeralda-barajas07/role-assignments)
-  - [Group Assignments]()
+  - [Group Assignments](https://github.com/esmeralda-barajas07/group-assign)
   - [Identify Lifecycles]()
   - [Audit Logs]()
   - [Sign-In Logs]()
