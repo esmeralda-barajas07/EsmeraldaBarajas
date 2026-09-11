@@ -6,7 +6,7 @@
   - [Role Assignments](https://github.com/esmeralda-barajas07/role-assignments)
   - [Group Assignments](https://github.com/esmeralda-barajas07/group-assign)
   - [Identify Lifecycles](https://github.com/esmeralda-barajas07/identity-lifecycle)
-  - [Audit Logs]()
+  - [Audit Logs](https://github.com/esmeralda-barajas07/audit-logs)
   - [Sign-In Logs]()
   - [Authentication]()
 
