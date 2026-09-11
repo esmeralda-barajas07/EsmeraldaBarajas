@@ -9,3 +9,16 @@
   - [Audit Logs]()
   - [Sign-In Logs]()
   - [Authentication]()
+
+- <b>Deployment, Networking, Troubleshooting</b>
+  - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+  - [Creating and Managing Local Users]()
+  - [Troubleshooting Network Connectivity]()
+  - [Managing Windows Updates]()
+  - [Software Installation]()
+  - [Print Queue]()
+  - [Credential Manager and Cache]()
+  - [PowerShell]()
+    
+- <b>Ticketing System</b>
+  - [SpiceWorks Ticketing System]()
