@@ -7,7 +7,7 @@
   - [Group Assignments](https://github.com/esmeralda-barajas07/group-assign)
   - [Identify Lifecycles](https://github.com/esmeralda-barajas07/identity-lifecycle)
   - [Audit Logs](https://github.com/esmeralda-barajas07/audit-logs)
-  - [Sign-In Logs]()
+  - [Sign-In Logs](https://github.com/esmeralda-barajas07/sign-in-logs)
   - [Authentication]()
 
 - <b>Deployment, Networking, Troubleshooting</b>
