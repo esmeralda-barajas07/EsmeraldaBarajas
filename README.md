@@ -41,7 +41,7 @@
 - <b>Device Management in Okta</b>
   - [Viewed registered administrators device to see how Okta manages trusted devices within an organization's identity and access management strategy.](https://github.com/esmeralda-barajas07/Device-Management-in-Okta)
 - <b>Audit Logs in Okta</b>
-  - [Reviewed the Okta audit logs and reviewed administrative activity performed within the environment. This provided me the visibility into my administrator actions, to monitor account activity, investigate issues, and maintain compliance.]()
+  - [Reviewed the Okta audit logs and reviewed administrative activity performed within the environment. This provided me the visibility into my administrator actions, to monitor account activity, investigate issues, and maintain compliance.](https://github.com/esmeralda-barajas07/Audit-Logs-in-Okta)
 
 
 
