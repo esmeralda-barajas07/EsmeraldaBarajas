@@ -10,7 +10,7 @@ Recent Management Information Systems graduate with hands-on IT support experien
   - [Cloud Provisioning - P2 Licensing](https://github.com/esmeralda-barajas07/p2-licensing)
   - [Role Assignments](https://github.com/esmeralda-barajas07/role-assignments)
   - [Group Assignments](https://github.com/esmeralda-barajas07/group-assign)
-  - [Identify Lifecycles](https://github.com/esmeralda-barajas07/identity-lifecycle)
+  - [Identity Lifecycles](https://github.com/esmeralda-barajas07/identity-lifecycle)
   - [Audit Logs](https://github.com/esmeralda-barajas07/audit-logs)
   - [Sign-In Logs](https://github.com/esmeralda-barajas07/sign-in-logs)
   - [Authentication](https://github.com/esmeralda-barajas07/authentication)
