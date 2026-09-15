@@ -24,3 +24,24 @@
     
 - <b>Ticketing System</b>
   - [SpiceWorks Ticketing System](https://github.com/esmeralda-barajas07/spiceworks-ticketing)
+
+<b>Okta Administration</b>
+- <b>Import Users from Entra ID to Okta Environment</b>
+  - [Migrated users from Microsoft Entra ID into your Okta environment. Showing how the user import process works, allowing me to synchronize existing identities and begin managing them within Okta.]()
+- <b>Enrollment Provisioning in Okta</b>
+  - [Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID into Okta. Since imported users are initially inactive, completed the activation process by setting temporary passwords, logging in as users, completed enrollment requirements, and verified that accounts are fully functional and ready for use within the Okta environment.]()
+- <b>Creating Users in Okta Manually</b>
+  - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.]()
+- <b>Add Attributes to User Profiles in Our Okta Environment</b>
+  - [Added and managed user attributes within Okta profiles. Updated user records with additional identity information, helping to prepare accounts for automated group assignments, access decisions, and attribute-based administration within the Okta environment.]()
+- <b>Creating Groups in Okta Environment</b>
+  - [Created groups within the Okta environment to organize users and manage access more efficiently.]()
+- <b>Attribute-Based Access Control (ABAC) Rules in Okta</b>
+  - [Created group rules in Okta using user attributes to automatically assign users to the appropriate groups.]()
+- <b>Device Management in Okta</b>
+  - [Viewed registered administrators device to see how Okta manages trusted devices within an organization's identity and access management strategy.]()
+- <b>Audit Logs in Okta</b>
+  - [Reviewed the Okta audit logs and reviewed administrative activity performed within the environment. This provided me the visibility into my administrator actions, to monitor account activity, investigate issues, and maintain compliance.]()
+
+
+
