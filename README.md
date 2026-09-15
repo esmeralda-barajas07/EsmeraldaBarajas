@@ -39,7 +39,7 @@
 - <b>Attribute-Based Access Control (ABAC) Rules in Okta</b>
   - [Created group rules in Okta using user attributes to automatically assign users to the appropriate groups.](https://github.com/esmeralda-barajas07/Attribute-Based-Access-Control-ABAC---Rules-in-Okta)
 - <b>Device Management in Okta</b>
-  - [Viewed registered administrators device to see how Okta manages trusted devices within an organization's identity and access management strategy.]()
+  - [Viewed registered administrators device to see how Okta manages trusted devices within an organization's identity and access management strategy.](https://github.com/esmeralda-barajas07/Device-Management-in-Okta)
 - <b>Audit Logs in Okta</b>
   - [Reviewed the Okta audit logs and reviewed administrative activity performed within the environment. This provided me the visibility into my administrator actions, to monitor account activity, investigate issues, and maintain compliance.]()
 
