@@ -35,7 +35,7 @@
 - <b>Add Attributes to User Profiles in Our Okta Environment</b>
   - [Added and managed user attributes within Okta profiles. Updated user records with additional identity information, helping to prepare accounts for automated group assignments, access decisions, and attribute-based administration within the Okta environment.](https://github.com/esmeralda-barajas07/Added-Attributes-to-Users-in-Our-Okta-Environment)
 - <b>Creating Groups in Okta Environment</b>
-  - [Created groups within the Okta environment to organize users and manage access more efficiently.]()
+  - [Created groups within the Okta environment to organize users and manage access more efficiently.](https://github.com/esmeralda-barajas07/Created-Groups-in-Okta)
 - <b>Attribute-Based Access Control (ABAC) Rules in Okta</b>
   - [Created group rules in Okta using user attributes to automatically assign users to the appropriate groups.]()
 - <b>Device Management in Okta</b>
