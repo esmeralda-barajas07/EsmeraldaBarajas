@@ -6,7 +6,7 @@ Recent Management Information Systems graduate with hands-on IT support experien
 ### Identity and Access Management Portfolio
 
 - <b>Microsoft Azure Entra ID</b>
-  - [Creating User's in Entra ID](https://github.com/esmeralda-barajas07/user-accounts)
+  - [Creating Users in Entra ID](https://github.com/esmeralda-barajas07/user-accounts)
   - [Cloud Provisioning - P2 Licensing](https://github.com/esmeralda-barajas07/p2-licensing)
   - [Role Assignments](https://github.com/esmeralda-barajas07/role-assignments)
   - [Group Assignments](https://github.com/esmeralda-barajas07/group-assign)
