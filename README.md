@@ -31,7 +31,7 @@
 - <b>Enrollment Provisioning in Okta</b>
   - [Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID into Okta. Since imported users are initially inactive, completed the activation process by setting temporary passwords, logging in as users, completed enrollment requirements, and verified that accounts are fully functional and ready for use within the Okta environment.](https://github.com/esmeralda-barajas07/Enrollment-Provisioning-in-Okta)
 - <b>Creating Users in Okta Manually</b>
-  - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.]()
+  - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.](https://github.com/esmeralda-barajas07/Created-Users-Manually-in-Okta)
 - <b>Add Attributes to User Profiles in Our Okta Environment</b>
   - [Added and managed user attributes within Okta profiles. Updated user records with additional identity information, helping to prepare accounts for automated group assignments, access decisions, and attribute-based administration within the Okta environment.]()
 - <b>Creating Groups in Okta Environment</b>
