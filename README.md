@@ -29,7 +29,7 @@
 - <b>Import Users from Entra ID to Okta Environment</b>
   - [Migrated users from Microsoft Entra ID into your Okta environment. Showing how the user import process works, allowing me to synchronize existing identities and begin managing them within Okta.](https://github.com/esmeralda-barajas07/Imported-Users-from-Entra-ID-to-Our-Okta-Environment)
 - <b>Enrollment Provisioning in Okta</b>
-  - [Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID into Okta. Since imported users are initially inactive, completed the activation process by setting temporary passwords, logging in as users, completed enrollment requirements, and verified that accounts are fully functional and ready for use within the Okta environment.]()
+  - [Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID into Okta. Since imported users are initially inactive, completed the activation process by setting temporary passwords, logging in as users, completed enrollment requirements, and verified that accounts are fully functional and ready for use within the Okta environment.](https://github.com/esmeralda-barajas07/Enrollment-Provisioning-in-Okta)
 - <b>Creating Users in Okta Manually</b>
   - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.]()
 - <b>Add Attributes to User Profiles in Our Okta Environment</b>
