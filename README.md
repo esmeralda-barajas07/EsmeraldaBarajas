@@ -1,4 +1,7 @@
-<h1>Hi, I'm Esmeralda, an IT Professional </a>😊</h1>  
+<h1>Hi, I'm Esmeralda - Welcome to My IT Support Portfolio </a>😊</h1>  
+
+Recent Management Information Systems graduate with hands-on IT support experience through technical labs involving Microsoft Entra ID, Azure, Windows 11, Okta, Spiceworks, networking, and identity and access management. This portfolio documents practical experience with common entry-level IT support tasks, including user account management, password resets, access permissions, troubleshooting, ticketing, and system administration.
+
 
 ### Identity and Access Management
 
