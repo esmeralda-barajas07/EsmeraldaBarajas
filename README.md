@@ -33,7 +33,7 @@
 - <b>Creating Users in Okta Manually</b>
   - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.](https://github.com/esmeralda-barajas07/Created-Users-Manually-in-Okta)
 - <b>Add Attributes to User Profiles in Our Okta Environment</b>
-  - [Added and managed user attributes within Okta profiles. Updated user records with additional identity information, helping to prepare accounts for automated group assignments, access decisions, and attribute-based administration within the Okta environment.]()
+  - [Added and managed user attributes within Okta profiles. Updated user records with additional identity information, helping to prepare accounts for automated group assignments, access decisions, and attribute-based administration within the Okta environment.](https://github.com/esmeralda-barajas07/Added-Attributes-to-Users-in-Our-Okta-Environment)
 - <b>Creating Groups in Okta Environment</b>
   - [Created groups within the Okta environment to organize users and manage access more efficiently.]()
 - <b>Attribute-Based Access Control (ABAC) Rules in Okta</b>
